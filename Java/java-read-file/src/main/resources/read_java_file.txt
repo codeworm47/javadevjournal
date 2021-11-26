@@ -1,3 +1,0 @@
-This file contains data to test
-the different ways to read file in
-Java.
